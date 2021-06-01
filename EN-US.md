@@ -28,11 +28,25 @@ Fluent in English, Spanish and Portuguese.
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
+<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEBIUHp0rLR1A/company-logo_200_200/0/1607085605489?e=2159024400&v=beta&t=rcFbCJz6ez-4Ft8sq3wVFugMrXo1aDAjTyzQDE6dv30" align="left" height= 50px width=50px/>
+
+## Nava Technology for Business
+
+###### Backend Developer; São Paulo, Brasil; December 2020 — now
+
+> [Nava](https://www.nava.com.br/) is a technology and Lean culture company.
+
+Projects:
+
+- Software management and implementation of new features and bug fixes using .Net, PL/SQL and Node.js.
+
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+
 <img src="https://www.mortgagenetwork.com/_resources/img/mortgage-network-logo.png" align="left" height= 50px width=50px/>
 
 ## Mortgage Network
 
-###### Backend Developer; Massachusetts, United States(Remote); October 2020 — now
+###### Backend Developer; Massachusetts, United States(Remote); October 2020 — December 2020
 
 > [Mortgage Network](https://www.mortgagenetwork.com/) is one of the East Coast’s most trusted mortgage providers.
 
