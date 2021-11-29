@@ -24,7 +24,7 @@ Fluente em inglês, espanhol e português.
 - [Mortgage Network 2020 - 2020](https://www.mortgagenetwork.com/)
 - [Lyra Network 2020 - 2020](https://www.lyra.com/)
 - [Wipro 2019 - 2020](https://www.wipro.com/)
-- [Triad Systems 2014 - 2015](https://www.triadsystems.com.br/)
+- [Triad Systems 2014 - 2016](https://www.triadsystems.com.br/)
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
