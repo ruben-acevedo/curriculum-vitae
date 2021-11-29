@@ -88,7 +88,7 @@ Projetos:
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
-<img src="https://avatars0.githubusercontent.com/u/67152555?s=460&u=4ac544837106ba21a6d6c62bada9b1f45a5f8a62&v=4" align="left" height= 50px width=50px/>
+<img src="https://scontent.fcgh10-1.fna.fbcdn.net/v/t1.6435-9/49682561_1935289489859418_1442177239775969280_n.png?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGzo6qU4j19-LC6_uar9rBEuRYsxkcYUCK5FizGRxhQIsUL8lxZ5at8GCVxOtqQGh6p-AvbprI9ewbB2e9QeLpt&_nc_ohc=LlIaek3v3xEAX_DAchd&_nc_ht=scontent.fcgh10-1.fna&oh=981b7e56261dc82b2e018d665fc8b1b4&oe=61CC61A0" align="left" height= 50px width=50px/>
 
 ## Triad Systems
 
