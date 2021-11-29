@@ -20,7 +20,7 @@ Fluent in English, Spanish and Portuguese.
 
 # Experiences
 
-- [NAVA 2020 - September 2021](https://www.nava.com.br/)
+- [NAVA 2020 - 2021](https://www.nava.com.br/)
 - [Mortgage Network 2020 - 2020](https://www.mortgagenetwork.com/)
 - [Lyra Network 2020 - 2020](https://www.lyra.com/)
 - [Wipro 2019 - 2020](https://www.wipro.com/)
