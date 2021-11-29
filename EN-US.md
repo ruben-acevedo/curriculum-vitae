@@ -20,11 +20,11 @@ Fluent in English, Spanish and Portuguese.
 
 # Experiences
 
-- [NAVA 2020 - now](https://www.nava.com.br/)
+- [NAVA 2020 - September 2021](https://www.nava.com.br/)
 - [Mortgage Network 2020 - 2020](https://www.mortgagenetwork.com/)
 - [Lyra Network 2020 - 2020](https://www.lyra.com/)
 - [Wipro 2019 - 2020](https://www.wipro.com/)
-- [Triad Systems 2014 - 2015](https://www.triadsystems.com.br/)
+- [Triad Systems 2014 - 2016](https://www.triadsystems.com.br/)
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
@@ -77,7 +77,7 @@ Projects:
 
 ## Wipro
 
-###### Full-stack & Mobile Development Internship; São Paulo, Brazil; September 2019 — May 2020
+###### Full-stack & Mobile Development Internship; São Paulo, Brazil; February 2019 — May 2020
 
 > [Wipro](https://www.wipro.com/) is a global information technology, consulting and outsourcing company serving clients in 175+ cities across 6 continents
 
@@ -88,11 +88,11 @@ Projects:
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
-<img src="https://avatars0.githubusercontent.com/u/67152555?s=460&u=4ac544837106ba21a6d6c62bada9b1f45a5f8a62&v=4" align="left" height= 50px width=50px/>
+<img src="https://scontent.fcgh10-1.fna.fbcdn.net/v/t1.6435-9/49682561_1935289489859418_1442177239775969280_n.png?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGzo6qU4j19-LC6_uar9rBEuRYsxkcYUCK5FizGRxhQIsUL8lxZ5at8GCVxOtqQGh6p-AvbprI9ewbB2e9QeLpt&_nc_ohc=LlIaek3v3xEAX_DAchd&_nc_ht=scontent.fcgh10-1.fna&oh=981b7e56261dc82b2e018d665fc8b1b4&oe=61CC61A0" align="left" height= 50px width=50px/>
 
 ## Triad Systems
 
-###### Production Analyst; São Paulo, Brazil; June 2014 — April 2015
+###### Production Analyst; São Paulo, Brazil; June 2014 — April 2016
 
 > [Triad Systems](https://www.triadsystems.com.br/) leverage results using technology and data intelligence for development of solutions
 > and services that transform, optimize and support business growth.
