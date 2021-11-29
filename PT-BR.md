@@ -32,7 +32,7 @@ Fluente em inglês, espanhol e português.
 
 ## Nava Technology for Business
 
-###### Desenvolvedor Backend; São Paulo, Brasil; Dezembro 2020 — Setembro 2020
+###### Desenvolvedor Backend; São Paulo, Brasil; Dezembro 2020 — Setembro 2021
 
 > [Nava](https://www.nava.com.br/) é uma empresa de tecnologia e cultura ágil.
 
